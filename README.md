@@ -1,5 +1,3 @@
-[![Yourfriendsudha](https://circleci.com/gh/Yourfriendsudha/DevopsML.svg?style=svg)](https://circleci.com/gh/Yourfriendsudha/DevopsML)
-
 ## Project Overview
 
 In this project, you will apply the skills you have acquired in this course to operationalize a Machine Learning Microservice API. 
